@@ -58,7 +58,6 @@ label {
 }
 
 .mail_bar>.bar:hover {
-    cursor: pointer;
     border: 2px solid #51347c;
 }
 
